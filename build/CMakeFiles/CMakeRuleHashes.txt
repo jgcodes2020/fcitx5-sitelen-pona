@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2cc1d06239f1d659693a7823ae9c806a src/CMakeFiles/table_data
+91e6b45b52d61859a440562e3f57e8e1 src/sitelen-pona.main.dict

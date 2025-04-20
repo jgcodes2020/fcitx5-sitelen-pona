@@ -1,0 +1,3 @@
+/usr/local/share/fcitx5/addon/sitelen-pona.conf
+/usr/local/share/fcitx5/inputmethod/sitelen-pona.conf
+/usr/local/share/fcitx5/table/sitelen-pona.main.dict
