@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/jgcodes/Documents/Code/IME/fcitx5-sitelen-pona/build/cmake_install.cmake",
-		"/home/jgcodes/Documents/Code/IME/fcitx5-sitelen-pona/build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
